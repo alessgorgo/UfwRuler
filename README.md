@@ -170,21 +170,3 @@ sudo rm -rf /opt/UfwRuler
 ```
 
 If you added an alias, remove it manually from your `.bashrc`.
-
----
-
-# 🧹 Clean, Simple, and Server-Friendly.
-
-Enjoy managing your server safely and efficiently! 🛡️
-
----
-
-# 📑 Example README Title
-
-> **UfwRuler — Simple and Safe UFW Firewall Management Tool**
-
----
-
-Would you also want me to generate a beautiful ready-to-copy **README.md** file you can drop into the project?  
-📄✨ (Markdown styled, perfect for GitHub or your own docs!)  
-If yes, I can generate it right away! 🚀
